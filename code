@@ -233,5 +233,4 @@ public class TaxGPT {
         return "Your tax forms have been successfully e-filed!";
     }
 
-    // Other methods (askGPT, parseMessageContent, etc.) remain unchanged
 }
