@@ -59,3 +59,13 @@ TaxGPT will recommend tax forms, calculate your tax liability, and identify elig
 
 E-File Your Taxes:
 If you choose to e-file, TaxGPT will simulate the e-filing process.
+
+**Future Enhancements**
+
+Integration with Official Tax Portals: Enable direct tax filing.
+
+Support for Additional Tax Jurisdictions: Expand beyond Indian tax laws.
+
+Cloud-Based API: Develop a web-based version for broader accessibility.
+
+
