@@ -1,0 +1,10 @@
+dependencies {
+    // JSON library for parsing and generating JSON data
+    implementation 'org.json:json:20231013' // Replace with the latest version
+
+    // HTTP client for making HTTP requests
+    implementation 'org.apache.httpcomponents:httpclient:4.5.13' // Replace with the latest version
+
+    // JUnit for unit testing (optional, but recommended)
+    testImplementation 'junit:junit:4.13.2' // Replace with the latest version
+}
