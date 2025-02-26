@@ -1,0 +1,11 @@
+# Normalize line endings for text files
+*.java text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+
+# Treat binary files as binary (no diff or merge)
+*.jar binary
+*.class binary
+
+# Exclude specific files from Git LFS (if using LFS)
+# lib/json-20231013.jar filter=lfs diff=lfs merge=lfs -text
