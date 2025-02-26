@@ -46,6 +46,9 @@ TaxGPT is a **Java-based tax assistant** that automates tax filing processes, si
 4. **Run the Application**:
    java -cp out;lib/json-20231013.jar TaxGPT
 
+Compile and run unit tests using JUnit:
+javac -cp .:lib/junit-4.13.2.jar -d out src/TaxGPT.java test/TaxGPTTest.java
+java -cp out:lib/junit-4.13.2.jar org.junit.runner.JUnitCore TaxGPTTest
 **Usage**
 Start the Application:
 Run the application as described in the Installation section.
