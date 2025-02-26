@@ -49,10 +49,13 @@ TaxGPT is a **Java-based tax assistant** that automates tax filing processes, si
 **Usage**
 Start the Application:
 Run the application as described in the Installation section.
+
 Interact with TaxGPT:
 The chatbot will guide you through the tax-filing process.
 Provide your details (e.g., income, filing status, deductions) when prompted.
+
 View Recommendations:
 TaxGPT will recommend tax forms, calculate your tax liability, and identify eligible deductions.
+
 E-File Your Taxes:
 If you choose to e-file, TaxGPT will simulate the e-filing process.
