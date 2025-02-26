@@ -1,0 +1,23 @@
+<dependencies>
+    <!-- JSON library for parsing and generating JSON data -->
+    <dependency>
+        <groupId>org.json</groupId>
+        <artifactId>json</artifactId>
+        <version>20231013</version> <!-- Replace with the latest version -->
+    </dependency>
+
+    <!-- HTTP client for making HTTP requests -->
+    <dependency>
+        <groupId>org.apache.httpcomponents</groupId>
+        <artifactId>httpclient</artifactId>
+        <version>4.5.13</version> <!-- Replace with the latest version -->
+    </dependency>
+
+    <!-- JUnit for unit testing (optional, but recommended) -->
+    <dependency>
+        <groupId>junit</groupId>
+        <artifactId>junit</artifactId>
+        <version>4.13.2</version> <!-- Replace with the latest version -->
+        <scope>test</scope>
+    </dependency>
+</dependencies>
